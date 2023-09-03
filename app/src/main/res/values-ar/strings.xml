@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قائمة المهام</string>
+    <string name="edit_text_hint">"أدخل مهمة: "</string>
+    <string name="add_btn_text">إضافة</string>
+    <string name="cancel_btn_text">إلغاء</string>
+    <string name="edit_btn_text">تعديل</string>
+    <string name="order_a_z">ترتيب أبجدي</string>
+    <string name="order_by_checked">الترتيب بالمفعل</string>
+    <string name="clear_all_tasks">حذف جميع المهام</string>
+    <string name="clear_all_checked">حذف المهام المنتهية</string>
+</resources>

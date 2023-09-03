@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="edit_text_hint">Add a task: </string>
+    <string name="add_btn_text">Add</string>
+    <string name="cancel_btn_text">Cancel</string>
+    <string name="edit_btn_text">Edit</string>
+    <string name="order_a_z">Order A-z</string>
+    <string name="order_by_checked">Order by Checked</string>
+    <string name="clear_all_tasks">Clear All Tasks</string>
+    <string name="clear_all_checked">Clear Checked Tasks</string>
+</resources>
